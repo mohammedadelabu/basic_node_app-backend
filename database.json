@@ -1,0 +1,105 @@
+[
+   {
+      "id": 1,
+      "productName": "T Shirt",
+      "productDescription": "Men's Vintage Shirt Casual Short Sleeve T-Shirt",
+      "productVarieties": [
+         {
+            "size": "large",
+            "color": "orange",
+            "quantity": "15",
+            "images": [
+               "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/83/453283/1.jpg?6332",
+               "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/83/453283/2.jpg?6332"
+            ],
+            "price": "23000"
+         },
+         {
+            "size": "medium",
+            "color": "large",
+            "quantity": "35",
+            "images": [
+               "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/86/690064/1.jpg?7852",
+               "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/86/690064/3.jpg?3113"
+            ],
+            "price": "35000"
+         }
+      ],
+      "dateUploaded": "1636633307531",
+      "dateEdited": "1636633307531"
+   },
+   {
+      "id": 2,
+      "productName": "T Shirt",
+      "productDescription": "Men's Vintage Shirt Casual Short Sleeve T-Shirt",
+      "productVarieties": [
+         {
+            "size": "large",
+            "color": "orange",
+            "quantity": "15",
+            "images": [
+               "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/83/453283/1.jpg?6332",
+               "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/83/453283/2.jpg?6332"
+            ],
+            "price": "23000"
+         },
+         {
+            "size": "medium",
+            "color": "large",
+            "quantity": "35",
+            "images": [
+               "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/86/690064/1.jpg?7852",
+               "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/86/690064/3.jpg?3113"
+            ],
+            "price": "35000"
+         }
+      ],
+      "dateUploaded": "1636633307531",
+      "dateEdited": "1636633307531"
+   },
+   {
+      "createdAt": "2021-11-16T20:04:29.307Z",
+      "updatedAt": "2021-11-16T20:04:29.307Z",
+      "id": 3
+   },
+   {
+      "createdAt": "2021-11-16T21:10:18.072Z",
+      "updatedAt": "2021-11-16T21:10:18.072Z",
+      "id": 4
+   },
+   {
+      "createdAt": "2021-11-16T21:11:12.766Z",
+      "updatedAt": "2021-11-16T21:11:12.766Z",
+      "id": 5
+   },
+   {
+      "createdAt": "2021-11-16T21:31:18.509Z",
+      "updatedAt": "2021-11-16T21:31:18.509Z",
+      "id": 6
+   },
+   {
+      "createdAt": "2021-11-16T21:34:23.950Z",
+      "updatedAt": "2021-11-16T21:34:23.950Z",
+      "id": 7
+   },
+   {
+      "createdAt": "2021-11-17T01:47:16.159Z",
+      "updatedAt": "2021-11-17T01:47:16.159Z",
+      "id": 8
+   },
+   {
+      "createdAt": "2021-11-17T01:57:29.195Z",
+      "updatedAt": "2021-11-17T01:57:29.195Z",
+      "id": 9
+   },
+   {
+      "createdAt": "2021-11-17T02:30:04.032Z",
+      "updatedAt": "2021-11-17T02:30:04.032Z",
+      "id": 10
+   },
+   {
+      "createdAt": "2021-11-17T02:32:20.540Z",
+      "updatedAt": "2021-11-17T02:32:20.540Z",
+      "id": 11
+   }
+]

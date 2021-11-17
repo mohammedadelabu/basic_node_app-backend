@@ -1,0 +1,63 @@
+[
+  {
+    "productId": 1637121365081,
+    "dateUploaded": "1637121365081",
+    "dateEdited": "1637123775281",
+    "productName": "T Shirt",
+    "productDescription": "Men's Vintage Shirt Casual Short Sleeve T-Shirt",
+    "productVarieties": [
+      {
+        "size": "large",
+        "color": "orange",
+        "quantity": "15",
+        "images": [
+          "https://th.bing.com/th/id/OIP.dOODobd149A9njdcRqslEwHaIq?pid=ImgDet&rs=1"
+        ],
+        "price": "23000"
+      }
+    ]
+  },
+  {
+    "productId": 1637122515292,
+    "productName": "T Shirt",
+    "productVarieties": "large",
+    "productDescription": "Men's Vintage Shirt Casual Short Sleeve T-Shirt",
+    "dateUploaded": "1637122515291"
+  },
+  {
+    "productId": 1637123359238,
+    "productName": "T Shirt",
+    "productVarieties": [
+      {
+        "size": "large",
+        "color": "orange",
+        "quantity": "15",
+        "images": [
+          "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/83/453283/1.jpg?6332",
+          "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/83/453283/2.jpg?6332"
+        ],
+        "price": "23000"
+      }
+    ],
+    "productDescription": "Men's Vintage Shirt Casual Short Sleeve T-Shirt",
+    "dateUploaded": "1637123359238"
+  },
+  {
+    "productId": 1637123378438,
+    "productName": "T Shirt",
+    "productVarieties": [
+      {
+        "size": "large",
+        "color": "orange",
+        "quantity": "15",
+        "images": [
+          "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/83/453283/1.jpg?6332",
+          "https://ng.jumia.is/unsafe/fit-in/500x500/filters:fill(white)/product/83/453283/2.jpg?6332"
+        ],
+        "price": "23000"
+      }
+    ],
+    "productDescription": "Men's Vintage Shirt Casual Short Sleeve T-Shirt",
+    "dateUploaded": "1637123378438"
+  }
+]
